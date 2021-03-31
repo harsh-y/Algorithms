@@ -1,7 +1,5 @@
 #include <iostream>
-#include <ctime>
 #include <cstdlib>
-#include<time.h>
 using namespace std;
 
 
